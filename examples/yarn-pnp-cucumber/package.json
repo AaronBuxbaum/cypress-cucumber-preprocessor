@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "latest",
+    "@bahmutov/cypress-esbuild-preprocessor": "latest",
+    "cypress": "latest",
+    "typescript": "latest"
+  },
+  "packageManager": "yarn@3.2.2",
+  "devDependencies": {
+    "esbuild": "^0.14.51"
+  }
+}
