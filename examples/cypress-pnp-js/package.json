@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cypress": "latest",
+    "typescript": "latest"
+  },
+  "packageManager": "yarn@3.2.2"
+}
